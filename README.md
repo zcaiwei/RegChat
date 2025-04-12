@@ -37,7 +37,7 @@ pip install regchat
 ```
 ## Tutorials
 
-We have applied RegChat on datasets, here we give step-by-step tutorials for Simulation data application scenarios. And preprocessed datasets used can be downloaded from [Simudata](Simudata).
+We have applied RegChat on datasets, here we give step-by-step tutorials for Simulation data application scenarios. And preprocessed datasets used can be downloaded from [Google Drive](https://drive.google.com/drive/folders/19h9z2ac-mLrL2B2YuFGmCphuXb4vaEE_).
 
 
 * [Multi-layer network inference of Simulation data](Tutorial/Simudata.ipynb)
